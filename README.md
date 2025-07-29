@@ -1,6 +1,5 @@
 # API Checkpoint - Liste des Utilisateurs
 
-Ce projet React a été réalisé dans le cadre d’un checkpoint GoMyCode.
 
 ##  Technologies utilisées
 - React + Vite
